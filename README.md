@@ -29,8 +29,7 @@ TEST PREPARATION COURSE : student is prepared or not
 SCORE : marks secured by students
 
 
-### I have also deployed this small project using heroku 
-1. Which will give us student's Statut (Succeed Or Not Succeed)
-2. Please have look on this link :   ' … Not yet available'
+### I have also deployed the model in this project using Flask, html and CSS as a wzb app which will give us student's Statut (Succeed Or Not Succeed)
+
 
 
